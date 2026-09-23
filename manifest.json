@@ -1,0 +1,10 @@
+{
+  "name": "StrongBloom Workout Planner",
+  "short_name": "StrongBloom",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FDF6F8",
+  "theme_color": "#FDF6F8",
+  "icons": [{ "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
